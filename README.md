@@ -1,5 +1,5 @@
 ## Gesture Control for Tabletop Interaction
-Welcome to the Gesture Control for Tabletop Interaction repository! This repository contains applications/scripts related to gesture control for tabletop interactions. I also provide a video database with videos that can be used for model training. But it is too big for the free GitHub version so you need to shoot me a message and I send them to you (might take a day or two though).
+Welcome to the Gesture Control for Tabletop Interaction repository! This repository contains applications/scripts related to gesture control for tabletop interactions. I also provide a video database with videos that can be used for model training. But it is too big for the free GitHub version so you need to shoot me a message and I send them to you (might take a day or two though). If you want to get the full picture of the project, please read my thesis that I provide here as a pdf. It will explain in detail how the research was conducted. A paper that gives a more crisp overview is currently in the making. I will upload an author's version once it got accepted.
 
 # Python Scripts
 Two Python scripts are available, designed to work with the Unity applications. Replicate the experiment and gather more gesture data using this combination. The libraries that are used in the scripts need to be installed. This might take a while.
